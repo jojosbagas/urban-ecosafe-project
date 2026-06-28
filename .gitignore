@@ -1,6 +1,8 @@
 dataset/
 *.csv
 env/
-venv/
+.venv/
 __pycache__/
 .DS_Store
+*.pkl
+*.h5
